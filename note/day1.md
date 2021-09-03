@@ -39,5 +39,4 @@ print(f'5线程访问100次百度首页，耗时：{end - start}')
 ```
 [百度](http://baidu.com)
 
-**你是煞笔**
-hell
+**VSCODE YYDS**
